@@ -5,7 +5,7 @@ const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
 
 //config variables
 const currency="inr";
-const frontend_url="http://localhost:5177"
+const frontend_url="https://food-delievery-frontend-w13j.onrender.com"
 
 
 
